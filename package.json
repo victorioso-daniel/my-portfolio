@@ -9,6 +9,7 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
+  "homepage": "https://victorioso-daniel.github.io/my-portfolio/",
   "dependencies": {
     "framer-motion": "^12.23.12",
     "lucide-react": "^0.536.0",
